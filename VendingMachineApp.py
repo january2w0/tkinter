@@ -103,7 +103,7 @@ class VendingMachineApp:
         self.root.geometry("1000x1400")
         self.root.resizable(False, False)
         self.vm = VendingMachine()
-        self.insert_popup = None
+        self.insert_popup = None  # 현금 투입 팝업(Toplevel) 참조
 
         # 음료 위젯
         self.drink_buttons = []
