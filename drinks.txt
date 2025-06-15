@@ -1,0 +1,15 @@
+아이시스 8.0, 800, 97, Icis_8.0.gif
+아쿠아 제로, 2000, 11, Aqua_Zero.gif
+레몬 워터, 1800, 8, Lemon_Water.gif
+옥수수 수염차, 1600, 9, Corn_Silk_Tea.gif
+콘트라베이스, 2200, 10, Contrabass.gif
+트레비, 1300, 10, Trevi.gif
+펩시제로, 1100, 9, Pepsi_Zero.gif
+펩시, 1100, 8, Pepsi.gif
+칠성사이다, 1300, 8, Chilsung_Cider.gif
+델몬트 망고, 1200, 10, Del_Monte_Mango.gif
+립톤, 1200, 9, Lipton.gif
+사과 에이드, 1100, 100, Apple_Ade.gif
+레쓰비, 900, 9, Lets_Be.gif
+핫식스, 1300, 8, Hot_Six.gif
+밀키스, 1100, 8, Milkis.gif
