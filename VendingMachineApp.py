@@ -240,7 +240,7 @@ class VendingMachineApp:
         sub1 = Frame(control_panel, bg="#333333")
         sub1.pack(side='left', padx=10)
         self.sales_label = Label(sub1, text=f"수익금\n{self.vm.total_sales}", fg="tomato", bg="#333333")
-        self.sales_label.pack(padx=30)
+        self.sales_label.pack(padx=30, pady=7)
 
         # 저장 버튼
         sub2 = Frame(control_panel)
