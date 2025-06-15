@@ -146,7 +146,7 @@ class VendingMachineApp:
                 button.pack(pady=10)
                 self.drink_buttons.append(button)
             elif mode == "stock" and drink.name:
-                entry = ttk.Entry(slot, width=5)
+                entry = ttk.Entry(slot, width=5, justify="center")
                 entry.insert(0, str(drink.stock))
                 entry.pack()
                 self.drink_entries.append(entry)
